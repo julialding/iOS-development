@@ -18,6 +18,12 @@ The following **required** functionality is completed:
 <img src='iOS-prework-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
+### List of Apps
+- Instagram: Ability to search history for messages, versatility in use of app, integration with other social apps like Facebook
+- Notes: Easy to use, good for quick note-taking, built-in
+- Spotify: Convenient mobile layout, straightforward UI
+### App Improvement
+Though Google Maps is often widely used for navigation in both driving and walking, its direction pointer in pedestrian use is often inaccurate. As such, a potential improvement on Google Maps could be to modify this feature and make it more reliable. The significance of this feature is important for not only efficiency but also safety reasons.
 
 ## Notes
 
